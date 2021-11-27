@@ -5,7 +5,7 @@
 
 
 
-## Listening is a magical tweak that will toggle noise cancellation when media is playing and toggle transparency when media is paused. But it also will pause media when transparency is activated and play music when noise cancellation is activated.
+## Listening is a magical tweak that will toggle noise cancellation when media is playing and toggle transparency when media is paused. But it also will pause media when transparency is activated and play media when noise cancellation is activated.
 
 
 
