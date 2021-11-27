@@ -16,6 +16,6 @@ https://github.com/nahtedetihw/Listening
 
 https://twitter.com/ethanwhited - follow me for more up to date info, or ask me anything.
 
-mailto:ethanwhited2208@gmail.com - open to any questions or concerns.
+ethanwhited2208@gmail.com - open to any questions or concerns.
 
 https://nahtedetihw.github.io - Repo containing Listening
